@@ -57,7 +57,7 @@ Install django-modeladmin-reorder:
 
 .. code-block:: bash
 
-    pip install django-modeladmin-reorder
+    pip install git+https://github.com/KyleOng/django-modeladmin-reorder.git
 
 
 Configuration
